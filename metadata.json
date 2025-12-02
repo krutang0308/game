@@ -1,0 +1,7 @@
+{
+  "name": "Sufficiency Economy AR Quest",
+  "description": "An educational AR motion-controlled game for 4th graders to learn about the Sufficiency Economy Philosophy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
